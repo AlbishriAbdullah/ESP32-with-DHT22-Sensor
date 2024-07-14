@@ -30,3 +30,5 @@ Circuit Simulation:
 Result:
 
 ![image](https://github.com/user-attachments/assets/791871f4-24d1-4bf3-a6ed-84d0cb3a338e)
+
+link: https://wokwi.com/projects/403345749463723009
