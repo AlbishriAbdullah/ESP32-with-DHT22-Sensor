@@ -9,15 +9,18 @@ Design and program any electronic circuit that contains an ESP along with any se
 Circuit design:
 
 1- ESP32
+
 2- DHT22 Sensor
+
 3- Jumper wires
 
 Pins connections:
-VCC of DHT22 to 3V3 in ESP32.
 
-GRD of DHT22 to GRD in ESP32.
+1) VCC of DHT22 to 3V3 in ESP32.
 
-SDA of DHT22 to pin 4 in ESP32.
+2) GRD of DHT22 to GRD in ESP32.
+
+3) SDA of DHT22 to pin 4 in ESP32.
 
 -------------------
 Circuit Simulation:
